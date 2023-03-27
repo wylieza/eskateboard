@@ -8,4 +8,4 @@ electic skateboard project.
 Latest Releases
   - battery container	V0.1.0
   - battery cover	V0.2.1
-  - battery plate	V0.2.0
+  - mounting plate	V0.3.0
