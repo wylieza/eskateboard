@@ -9,3 +9,4 @@ Latest Releases
   - battery container	V0.1.0
   - battery cover	V0.2.1
   - mounting plate	V0.3.0
+  - bms breakout	V1.0.0
